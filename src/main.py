@@ -6,3 +6,6 @@ y = np.sqrt(x)
 
 print(y)
 plt.plot(x, y)
+
+from add import add_func
+print(add_func(45,41))
