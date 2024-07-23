@@ -15,3 +15,5 @@ print('Hello World')
 print('bye bye!')
 
 a = np.linspace(1, 100, 150)
+
+print('b and c is not defind here')
