@@ -15,3 +15,7 @@ print('Hello World')
 print('bye bye!')
 
 a = np.linspace(1, 100, 150)
+
+b = 25
+c = ['ali']
+d = [i for i in range(100)]
