@@ -16,4 +16,8 @@ print('bye bye!')
 
 a = np.linspace(1, 100, 150)
 
-print('b and c is not defind here')
+b = 25
+c = ['ali']
+d = [i for i in range(100)]
+
+print('finish the merging')
