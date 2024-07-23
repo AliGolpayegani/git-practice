@@ -11,3 +11,7 @@ from add import add_func
 print(add_func(45,41))
 
 print('Hello World')
+
+print('bye bye!')
+
+a = np.linspace(1, 100, 150)
