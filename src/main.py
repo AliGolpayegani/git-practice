@@ -21,3 +21,12 @@ c = ['ali']
 d = [i for i in range(100)]
 
 print('finish the merging')
+
+def arbitraryfunc(x):
+    x = x ** 2
+    x = np.sin(x)
+    h = x + np.tan(x)
+    return x
+
+a = arbitraryfunc(153)
+print(a)
